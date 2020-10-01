@@ -16,7 +16,7 @@ Easy-to-use context-menu for your website or web-app.
 - [Themes](#themes)
 - [Addons](#addons)
 
-## Demos
+## Demo's
 
 | Name | Description | Link |
 |:-----------|:------------|:------------|
@@ -27,7 +27,7 @@ Easy-to-use context-menu for your website or web-app.
 | Custom position demo | basicContext accepts an object with custom coordinates | [Try it on CodePen](http://codepen.io/electerious/pen/PqjMrN) |
 | jQuery demo | Use basicContext with the jQuery [Event Object](http://api.jquery.com/category/events/event-object/) | [Demo](demos/jQuery.html) |
 
-## Features
+## Extencive Features
 
 - Works in all modern browsers
 - Written in Vanilla JS
@@ -36,7 +36,7 @@ Easy-to-use context-menu for your website or web-app.
 - Stays within the viewport and never opens outside the visible screen-area ([Demo](http://codepen.io/electerious/pen/GJqrZN))
 - Scrollable, when the height of the context-menu is bigger than the height of the browser ([Demo](http://codepen.io/electerious/pen/aOZpZr))
 
-## Requirements
+## Basic Requirements
 
 basicContext is written in Vanilla JS and only dependents on the following browser APIs:
 
@@ -127,7 +127,7 @@ Layout and theme are separated CSS-files. This makes it easy to style your own c
 | Bright theme | <img src="http://l.electerious.com/uploads/big/f337c41832ac37cd49c3bd6898b85d5e.png" width="257" /> | [CSS-File](dist/themes/bright.min.css) | [Demo](demos/themes/bright.html) |
 | Dark theme | <img src="http://l.electerious.com/uploads/big/f0cc0ba23effc0443f367ca63dd1e72f.png" width="257" /> | [CSS-File](dist/themes/dark.min.css) | [Demo](demos/themes/dark.html) |
 
-## Addons
+## Special Addons
 
 Include the following CSS-files to enhance the look and functionality of your contexts.
 
